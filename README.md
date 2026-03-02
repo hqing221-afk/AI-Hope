@@ -20,8 +20,6 @@
 Run the demo to witness the Guardian Protocol in action:
 运行演示脚本，亲眼见证“守护者协议”的执行：
 
-```bash
-python main_demo.py
 ---
 ## 🖥️ Execution Result / 运行实测
 The following log demonstrates **Sentinel-X** intercepting an unauthorized escalation attempt in a local environment:
@@ -32,3 +30,7 @@ The following log demonstrates **Sentinel-X** intercepting an unauthorized escal
 
 > **Status**: Verified. The logic fuse triggered successfully, and the rogue process was terminated.
 > **状态**: 已验证。逻辑熔断器成功触发，恶意进程已终止。
+
+```bash
+python main_demo.py
+
