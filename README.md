@@ -22,4 +22,4 @@ Run the demo to witness the Guardian Protocol in action:
 
 ```bash
 python main_demo.py
-<img width="1155" height="650" alt="image" src="https://github.com/user-attachments/assets/37c2df00-375e-4b71-851c-7d9c534f7031" />
+
