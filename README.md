@@ -26,7 +26,7 @@ The following log demonstrates **Sentinel-X** intercepting an unauthorized escal
 
 以下日志展示了 **Sentinel-X** 在本地环境下拦截未经授权的越权企图的真实过程：
 
-![Sentinel-X Strike]([execution_log.png](https://github.com/hqing221-afk/AI-Hope/blob/main/execution_log.png?raw=true))
+![Sentinel-X Strike](execution_log.png)
 
 > **Status**: Verified. The logic fuse triggered successfully, and the rogue process was terminated.
 > **状态**: 已验证。逻辑熔断器成功触发，恶意进程已终止。
