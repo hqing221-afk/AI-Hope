@@ -23,7 +23,6 @@ Run the demo to witness the Guardian Protocol in action:
 ```bash
 python main_demo.py
 ---
-
 ## 🖥️ Execution Result / 运行实测
 The following log demonstrates **Sentinel-X** intercepting an unauthorized escalation attempt in a local environment:
 
